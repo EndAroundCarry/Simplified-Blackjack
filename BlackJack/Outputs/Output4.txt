@@ -1,0 +1,21 @@
+Player1 has the following cards in his hand:
+Ace
+8
+
+Player2 has the following cards in his hand:
+3
+8
+
+Player3 has the following cards in his hand:
+6
+Jack
+
+Player4 has the following cards in his hand:
+5
+Queen
+
+Dealer has the following cards in his hand:
+Ace
+Queen
+
+Dealer has won the game

@@ -1,0 +1,18 @@
+Player1 has the following cards in his hand:
+Ace
+2
+
+Player2 has the following cards in his hand:
+Ace
+10
+
+Player3 has the following cards in his hand:
+2
+
+Player4 has the following cards in his hand:
+Jack
+
+Dealer has the following cards in his hand:
+9
+
+Player2 has won the game

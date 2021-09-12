@@ -1,0 +1,16 @@
+C:\Users\Bogdan\source\repos\BlackJack\BlackJack\bin\Release\net5.0\BlackJack.exe
+C:\Users\Bogdan\source\repos\BlackJack\BlackJack\bin\Release\net5.0\BlackJack.deps.json
+C:\Users\Bogdan\source\repos\BlackJack\BlackJack\bin\Release\net5.0\BlackJack.runtimeconfig.json
+C:\Users\Bogdan\source\repos\BlackJack\BlackJack\bin\Release\net5.0\BlackJack.runtimeconfig.dev.json
+C:\Users\Bogdan\source\repos\BlackJack\BlackJack\bin\Release\net5.0\BlackJack.dll
+C:\Users\Bogdan\source\repos\BlackJack\BlackJack\bin\Release\net5.0\ref\BlackJack.dll
+C:\Users\Bogdan\source\repos\BlackJack\BlackJack\bin\Release\net5.0\BlackJack.pdb
+C:\Users\Bogdan\source\repos\BlackJack\BlackJack\obj\Release\net5.0\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\source\repos\BlackJack\BlackJack\obj\Release\net5.0\BlackJack.AssemblyInfoInputs.cache
+C:\Users\Bogdan\source\repos\BlackJack\BlackJack\obj\Release\net5.0\BlackJack.AssemblyInfo.cs
+C:\Users\Bogdan\source\repos\BlackJack\BlackJack\obj\Release\net5.0\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\BlackJack\BlackJack\obj\Release\net5.0\BlackJack.dll
+C:\Users\Bogdan\source\repos\BlackJack\BlackJack\obj\Release\net5.0\ref\BlackJack.dll
+C:\Users\Bogdan\source\repos\BlackJack\BlackJack\obj\Release\net5.0\BlackJack.pdb
+C:\Users\Bogdan\source\repos\BlackJack\BlackJack\obj\Release\net5.0\BlackJack.genruntimeconfig.cache
+C:\Users\Bogdan\source\repos\BlackJack\BlackJack\obj\Release\net5.0\BlackJack.csproj.AssemblyReference.cache
